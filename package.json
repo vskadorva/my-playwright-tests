@@ -1,0 +1,21 @@
+{
+  "name": "my-playwright-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vskadorva/my-playwright-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vskadorva/my-playwright-tests/issues"
+  },
+  "homepage": "https://github.com/vskadorva/my-playwright-tests#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.36.2"
+  }
+}
